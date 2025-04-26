@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CompresorPDF": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\temp\\original.pdf\" -calidad 50"
+    }
+  }
+}
